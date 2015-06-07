@@ -74,6 +74,12 @@ git commit -m '<message>' Commits the staging area to the repository with a <mes
 
 ##### 10. Add these untracked files to the staging area
 
+what contributed to your lrearning in todays workshop? having help from t.a.'s visual and audio examples of problem solving.
+
+what was least helpfull in your learning? getting stuck in places and missing parts of the lecture.
+
+would you recomend this workshop to a friend 0-10 9
+
 ##### 11. Commit the changes
 
 ##### 12. Push the branch to the `origin` remote on GitHub
